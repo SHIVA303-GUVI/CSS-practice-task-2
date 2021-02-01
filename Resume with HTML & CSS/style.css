@@ -1,0 +1,174 @@
+   .top-color{
+      background-color: gray;
+      height: 350px; 
+     
+    }
+    .front-color{
+      background-color:rgba(255, 255, 255, 0.884);
+      margin:3px solid black;
+      height:0px;
+      padding-top:50px;
+      position: relative;
+      top:248px;
+     
+    }
+   
+    .div-3{
+  
+      background-color: rgba(255, 217, 0, 0.952);
+      height:100px;
+      width:500px;
+      position:absolute;
+      top:230px;
+      left:525px;
+    }
+    .name{
+      text-align: center;
+      font-size: 35px; 
+      position:absolute;
+      top:1px; 
+      left:130px;
+    }
+    .line-div{
+      border-left:5px solid rgb(224, 224, 224);
+      height:1100px;
+      position: absolute;
+      left:50%;
+      margin-left:3px;
+      top:450px;
+    }
+    .data{
+      text-align: center;
+      background-color:rgb(231, 229, 229);
+      margin-bottom:5px solid black; 
+      width:1504px;
+      position:absolute;
+      top:359px;
+    }
+    .summa-icon{
+      color: gold;
+      font-size:40px;
+      padding-top:90px;
+      padding-left:10px;
+     
+    }
+    .profile-condent{
+      width:50%;
+      font-size: 20px;
+    }
+    .work-experience{
+      color: gold;
+      font-size:40px;
+  position:absolute;
+  top:450px;
+  left:790px;
+    }
+    .community-rel{
+      font-size: 20px;
+      padding-top:10px;
+    }
+    .date-comm{
+      padding-left: 393px;
+    }
+    .manager{
+      font-size: 20px;;
+    }
+    .man{
+      font-size: 20px;
+    }.man-unorderlist{
+      font-size: 20px;
+    }
+    .icon-skill{
+      color: gold;
+      font-size:40px;
+      padding-top:20px;
+      padding-left:10px;
+         }
+    .heading-skill{
+      padding-left: 250px;
+      font-size: 20px;
+    }
+    .unorderlist{
+      padding-left:60px;
+      font-size: 20px;
+    }
+    .slider {
+    width: 25%;
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    position: relative;
+    left:20px;
+    top:6px;  
+}
+.work-exp-icon
+{
+    color: gold;
+    font-size:40px;
+    padding-top:20px;
+    padding-left:10px;  
+}
+.Work-Experince
+{
+    color:black;
+}
+.Even-Man{
+    color:black;
+    font-size: 20px;
+      padding-top:10px;
+}
+.date-work{
+    padding-left: 30%;
+}
+.work-para{
+    color:black;
+    font-size: 20px;
+}
+.ul-list{
+    width:50%;
+      font-size: 20px;
+}
+.graduation-cap{
+    color: gold;
+      font-size:40px;
+  position:absolute;
+  top:710px;
+  left:790px;  
+}
+.Education{
+    color:black;
+}
+.Engineering{
+    color:black;
+    font-size: 20px;
+      padding-top:10px;
+}
+.Education-date{
+    padding-left: 368px;
+}
+.Program{
+    color:black;
+    font-size: 20px;
+}
+.Education-para{
+    padding-top:10px;
+    color:black;
+    font-size: 20px;
+}
+.Education-ul-list{
+    color:black;
+    font-size: 20px;
+}
+.ba-english{
+    padding-top:20px;
+    color:black;
+    font-size: 20px;
+}
+.Last-date{
+    padding-left: 472px;
+}
+.last-line{
+    padding-top:5px;
+    color:black;
+    font-size: 20px;
+}
